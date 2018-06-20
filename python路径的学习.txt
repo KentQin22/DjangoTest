@@ -1,0 +1,4 @@
+1/
+    path1 = os.path.dirname(__file__)
+    print(path1)#获取当前运行脚本的绝对路径
+
